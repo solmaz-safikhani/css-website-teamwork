@@ -237,7 +237,6 @@ a {
   color: var(--primary);
 }
 
-
 @media (max-width: 991.98px) {
     .navbar .navbar-brand img {
       max-height: 45px;
